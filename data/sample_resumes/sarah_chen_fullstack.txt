@@ -1,0 +1,17 @@
+SARAH CHEN
+Email: sarah.chen@demo.io | LinkedIn: linkedin.com/in/sarahchen-dev
+
+PROFESSIONAL SUMMARY:
+Full-Stack Software Engineer with 3 years of experience developing responsive user interfaces with React, TypeScript, and modern CSS frameworks, backed by Python web backends.
+
+TECHNICAL SKILLS:
+- Frontend: React, TypeScript, Next.js, Tailwind CSS, HTML5, CSS3, Redux
+- Backend: Python, Node.js, Express.js, REST API
+- Databases: PostgreSQL, MongoDB
+- Tools & Practices: Git, Docker, Agile Methodology, CI/CD
+
+EXPERIENCE:
+Full-Stack Engineer | Nexus Web Labs (2023 - Present)
+- Developed responsive web applications in React and TypeScript with Tailwind CSS.
+- Built RESTful API endpoints using Node.js and PostgreSQL.
+- Collaborated in sprint planning using Agile methodology.

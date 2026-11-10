@@ -1,0 +1,24 @@
+ALEX MERCER
+Email: alex.mercer@demo.io | Phone: (555) 392-1084 | GitHub: github.com/alexmercer-demo
+
+PROFESSIONAL SUMMARY:
+Backend Software Engineer with 2.5 years of industry experience architecting scalable asynchronous REST services and event-driven data pipelines using Python, FastAPI, and PostgreSQL. Familiar with containerized microservices deployments with Docker and Git version control.
+
+TECHNICAL SKILLS:
+- Languages: Python, JavaScript, SQL
+- Frameworks & Web: FastAPI, REST API, Pydantic, SQLAlchemy
+- Databases: PostgreSQL, SQLite, Redis
+- DevOps & Cloud: Docker, Git, Linux
+- AI & NLP: Basic familiarity with Large Language Models and Prompt Engineering
+
+EXPERIENCE:
+Backend Engineer | Acme Cloud Solutions (June 2024 - Present)
+- Designed and maintained high-throughput REST APIs using FastAPI and Python 3.11.
+- Optimized relational database schemas and indexed queries in PostgreSQL for sub-50ms latency.
+- Containerized development workflows using Docker Compose and managed code through Git.
+- Implemented JWT token authentication and role-based access control.
+
+PRACTICAL PROJECTS:
+Intelligent Document Search Service (Personal Project)
+- Built semantic document retrieval pipeline in Python using text embeddings and SQLite.
+- Containerized service using Docker and documented REST endpoints with OpenAPI.

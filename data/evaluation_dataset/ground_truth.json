@@ -1,0 +1,27 @@
+[
+  {
+    "id": "eval_doc_01",
+    "text": "Experienced Senior Backend Engineer with 5+ years writing Python microservices using FastAPI and SQLAlchemy. Deployed containerized applications with Docker to Kubernetes clusters on AWS cloud. Heavy experience writing optimized PostgreSQL queries, Redis caching, and building CI/CD pipelines.",
+    "expected_skills": ["Python", "FastAPI", "Docker", "Kubernetes", "AWS", "PostgreSQL", "Redis", "CI/CD"]
+  },
+  {
+    "id": "eval_doc_02",
+    "text": "Full-stack web developer skilled in React, TypeScript, Next.js, and Tailwind CSS. Solid understanding of modern JavaScript, HTML5, CSS3, and REST API design. Familiar with Git version control and Agile methodology.",
+    "expected_skills": ["React", "TypeScript", "Next.js", "Tailwind CSS", "JavaScript", "HTML5", "CSS3", "REST API", "Git", "Agile Methodology"]
+  },
+  {
+    "id": "eval_doc_03",
+    "text": "AI/ML Engineer specializing in Large Language Models (LLM) and Retrieval-Augmented Generation (RAG). Proficient in PyTorch, Scikit-Learn, Pandas, NumPy, Hugging Face transformers, and Vector Databases such as Qdrant.",
+    "expected_skills": ["Large Language Models", "Retrieval-Augmented Generation", "PyTorch", "Scikit-Learn", "Pandas", "NumPy", "Hugging Face", "Vector Databases", "Machine Learning"]
+  },
+  {
+    "id": "eval_doc_04",
+    "text": "DevOps Engineer with deep knowledge of Linux system administration, Terraform infrastructure as code, Docker, Kubernetes, and automated CI/CD with GitHub Actions. Working knowledge of Go programming language.",
+    "expected_skills": ["Linux", "Terraform", "Docker", "Kubernetes", "CI/CD", "Go"]
+  },
+  {
+    "id": "eval_doc_05",
+    "text": "Backend developer with 3 years in Java, Spring Boot, and relational databases like MySQL and PostgreSQL. Strong focus on RESTful services, System Design, and Problem Solving.",
+    "expected_skills": ["Java", "Spring Boot", "MySQL", "PostgreSQL", "REST API", "System Design", "Problem Solving"]
+  }
+]

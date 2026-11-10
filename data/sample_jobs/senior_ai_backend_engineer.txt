@@ -1,0 +1,20 @@
+JOB TITLE: Senior AI Backend Engineer
+COMPANY: Nexus Intelligence Labs
+LOCATION: San Francisco, CA (Hybrid)
+EMPLOYMENT TYPE: Full-time
+
+ABOUT THE ROLE:
+Nexus Intelligence Labs is seeking a talented Senior AI Backend Engineer to lead development of our autonomous intelligence platform.
+
+KEY RESPONSIBILITIES:
+- Design, build, and maintain production-grade backend APIs in Python using FastAPI.
+- Integrate Large Language Models (LLMs) and build Retrieval-Augmented Generation (RAG) pipelines.
+- Manage PostgreSQL relational database architectures, vector indexes, and query performance.
+- Containerize microservices using Docker and orchestrate deployments with Kubernetes.
+- Collaborate across engineering teams using Git and automated CI/CD pipelines.
+
+REQUIRED QUALIFICATIONS:
+- 4+ years of professional experience with Python and asynchronous backend development (FastAPI).
+- Deep experience with relational databases (PostgreSQL).
+- Hands-on expertise with Docker containerization and Kubernetes.
+- Working knowledge of Generative AI, LLMs, and RAG architectures.
